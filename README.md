@@ -5,4 +5,5 @@
 You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
 Attribution note:
                 This is my trial file. 
-Acknowledgement: Ometman helps me.                 
+Acknowledgement: Ometman helped with providing him with rights to my GitHub repository.
+               
